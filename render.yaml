@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: placement-readiness-predictor-api
+    runtime: python
+    buildCommand: "pip install -r backend/requirements.txt"
+    startCommand: "uvicorn app.main:app --host 0.0.0.0 --port $PORT --app-dir backend"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.8
+      - key: CORS_ORIGINS
+        value: "http://localhost:5173,https://placement-readiness-predictor.vercel.app"
+      - key: DATABASE_URL
+        value: "sqlite:///./app/placement_predictor.db"

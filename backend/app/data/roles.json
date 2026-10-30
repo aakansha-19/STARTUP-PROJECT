@@ -1,0 +1,212 @@
+{
+  "roles": [
+    {
+      "id": "data-analyst",
+      "title": "Data Analyst",
+      "short_description": "Extracts insights from structured data, creates business dashboards, and informs strategic decisions through statistical exploration.",
+      "overview": "Data Analysts bridge business and technology by collecting, cleaning, and modeling data. Key competencies include SQL querying, business intelligence dashboarding, statistical reasoning, and data storytelling.",
+      "required_skills": [
+        "SQL",
+        "Python",
+        "Excel",
+        "Power BI",
+        "Data Visualization",
+        "Statistics"
+      ],
+      "preferred_skills": [
+        "Tableau",
+        "Pandas",
+        "NumPy",
+        "Git",
+        "REST APIs"
+      ],
+      "skill_weights": {
+        "SQL": 1.5,
+        "Python": 1.3,
+        "Excel": 1.2,
+        "Power BI": 1.3,
+        "Data Visualization": 1.1,
+        "Statistics": 1.1,
+        "Tableau": 0.8,
+        "Pandas": 0.9,
+        "NumPy": 0.7,
+        "Git": 0.6,
+        "REST APIs": 0.5
+      },
+      "example_projects": [
+        {
+          "title": "E-Commerce Customer Retention & Churn Dashboard",
+          "description": "Analyze transaction logs using SQL, calculate cohort retention, and build an interactive Power BI dashboard tracking monthly churn and CLV.",
+          "recommended_skills": ["SQL", "Power BI", "Excel", "Data Visualization"]
+        },
+        {
+          "title": "Sales Performance & Regional Inventory Analysis",
+          "description": "Perform exploratory data analysis on sales trends across regions using Python (Pandas) and generate automated executive summary charts.",
+          "recommended_skills": ["Python", "Pandas", "Statistics", "Data Visualization"]
+        },
+        {
+          "title": "Healthcare Clinic Appointment No-Show Statistical Analysis",
+          "description": "Use hypothesis testing and regression in Python or Excel to uncover key drivers of patient no-shows and propose operational adjustments.",
+          "recommended_skills": ["Statistics", "Excel", "Python"]
+        }
+      ]
+    },
+    {
+      "id": "software-developer",
+      "title": "Software Developer",
+      "short_description": "Designs, writes, tests, and maintains modern web and enterprise software applications across frontend and backend systems.",
+      "overview": "Software Developers turn user requirements into robust application logic. They write modular code, implement RESTful backend services, build responsive web interfaces, and collaborate using version control.",
+      "required_skills": [
+        "JavaScript",
+        "Python",
+        "HTML",
+        "CSS",
+        "Git",
+        "REST APIs",
+        "SQL"
+      ],
+      "preferred_skills": [
+        "React",
+        "FastAPI",
+        "Django",
+        "Flask",
+        "Data Structures and Algorithms"
+      ],
+      "skill_weights": {
+        "JavaScript": 1.4,
+        "Python": 1.3,
+        "HTML": 1.0,
+        "CSS": 1.0,
+        "Git": 1.2,
+        "REST APIs": 1.3,
+        "SQL": 1.2,
+        "React": 1.1,
+        "FastAPI": 0.9,
+        "Django": 0.8,
+        "Flask": 0.8,
+        "Data Structures and Algorithms": 0.9
+      },
+      "example_projects": [
+        {
+          "title": "Full-Stack Task & Project Management System",
+          "description": "Create a collaborative Kanban board application with React frontend, FastAPI/Django backend, and relational database persistence.",
+          "recommended_skills": ["React", "JavaScript", "FastAPI", "SQL", "Git"]
+        },
+        {
+          "title": "RESTful E-Commerce Product Catalog & Cart API",
+          "description": "Develop a high-performance backend API with JWT authentication, CRUD endpoints, filtering, and automated unit tests.",
+          "recommended_skills": ["Python", "REST APIs", "SQL", "Git"]
+        },
+        {
+          "title": "Responsive Developer Portfolio & Blog Platform",
+          "description": "Build a modern, accessible web application featuring dynamic markdown rendering, responsive layouts, and clean CSS styling.",
+          "recommended_skills": ["HTML", "CSS", "JavaScript", "React"]
+        }
+      ]
+    },
+    {
+      "id": "data-scientist",
+      "title": "Data Scientist",
+      "short_description": "Builds statistical models, machine learning algorithms, and predictive systems to solve complex business challenges.",
+      "overview": "Data Scientists combine advanced mathematics, computer science, and business intuition. They preprocess complex datasets, engineer predictive features, train ML models, and validate experimental hypotheses.",
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Pandas",
+        "NumPy",
+        "SQL"
+      ],
+      "preferred_skills": [
+        "Data Visualization",
+        "Git",
+        "FastAPI",
+        "Excel",
+        "Data Structures and Algorithms"
+      ],
+      "skill_weights": {
+        "Python": 1.5,
+        "Machine Learning": 1.5,
+        "Statistics": 1.4,
+        "Pandas": 1.3,
+        "NumPy": 1.2,
+        "SQL": 1.2,
+        "Data Visualization": 0.9,
+        "Git": 0.8,
+        "FastAPI": 0.8,
+        "Excel": 0.6,
+        "Data Structures and Algorithms": 0.8
+      },
+      "example_projects": [
+        {
+          "title": "Predictive Loan Default Risk Classifier",
+          "description": "Develop a binary classification pipeline using scikit-learn to forecast credit defaults, handling class imbalance and interpreting feature importances.",
+          "recommended_skills": ["Python", "Machine Learning", "Pandas", "Statistics"]
+        },
+        {
+          "title": "Customer Segmentation via Unsupervised Clustering",
+          "description": "Cluster customer purchasing patterns using K-Means and PCA, visualizing behavioral clusters to inform personalized marketing campaigns.",
+          "recommended_skills": ["Python", "NumPy", "Pandas", "Data Visualization", "Machine Learning"]
+        },
+        {
+          "title": "End-to-End ML Microservice Deployment",
+          "description": "Wrap a trained regression model with a FastAPI inference endpoint, including input validation and automated schema documentation.",
+          "recommended_skills": ["Python", "Machine Learning", "FastAPI", "Git"]
+        }
+      ]
+    },
+    {
+      "id": "sde",
+      "title": "Software Development Engineer (SDE)",
+      "short_description": "Engineers scalable distributed systems, algorithms, performant backend architectures, and core software platforms.",
+      "overview": "Software Development Engineers specialize in algorithmic problem-solving, system design, scalability, and robust engineering practices. They write high-efficiency code in compiled or modern runtime environments.",
+      "required_skills": [
+        "Data Structures and Algorithms",
+        "Java",
+        "C++",
+        "Python",
+        "SQL",
+        "Git",
+        "REST APIs"
+      ],
+      "preferred_skills": [
+        "FastAPI",
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS"
+      ],
+      "skill_weights": {
+        "Data Structures and Algorithms": 1.6,
+        "Java": 1.3,
+        "C++": 1.3,
+        "Python": 1.2,
+        "SQL": 1.3,
+        "Git": 1.2,
+        "REST APIs": 1.3,
+        "FastAPI": 0.8,
+        "JavaScript": 0.8,
+        "React": 0.7,
+        "HTML": 0.5,
+        "CSS": 0.5
+      },
+      "example_projects": [
+        {
+          "title": "Distributed In-Memory Key-Value Store with LRU Cache",
+          "description": "Implement a multithreaded caching service with concurrency locks, time-to-live expiration, and custom serialization in Java or C++.",
+          "recommended_skills": ["Data Structures and Algorithms", "Java", "C++", "Git"]
+        },
+        {
+          "title": "Scalable URL Shortener with Analytics & Rate Limiting",
+          "description": "Design a high-throughput URL shortening service using token-bucket rate limiting, relational database indexing, and REST APIs.",
+          "recommended_skills": ["Java", "Python", "SQL", "REST APIs", "Git"]
+        },
+        {
+          "title": "Graph Algorithm Visualizer & Pathfinding Simulator",
+          "description": "Implement Dijkstra's, A*, and topological sort algorithms with interactive step-by-step state visualization.",
+          "recommended_skills": ["Data Structures and Algorithms", "JavaScript", "C++"]
+        }
+      ]
+    }
+  ]
+}

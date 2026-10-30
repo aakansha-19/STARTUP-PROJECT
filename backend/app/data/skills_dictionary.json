@@ -1,0 +1,114 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Programming Languages",
+      "aliases": ["python", "python3", "py", "python 3", "python script", "pythonic"]
+    },
+    {
+      "name": "SQL",
+      "category": "Databases & Query Languages",
+      "aliases": ["sql", "mysql", "postgresql", "postgres", "sqlite", "tsql", "pl/sql", "ms sql", "sql server", "nosql", "querying"]
+    },
+    {
+      "name": "Excel",
+      "category": "Analytics & Productivity",
+      "aliases": ["excel", "ms excel", "microsoft excel", "vlookup", "pivot tables", "spreadsheet", "spreadsheets", "xlookup"]
+    },
+    {
+      "name": "Power BI",
+      "category": "Business Intelligence",
+      "aliases": ["power bi", "powerbi", "microsoft power bi", "dax", "power query", "bi dashboard"]
+    },
+    {
+      "name": "Tableau",
+      "category": "Business Intelligence",
+      "aliases": ["tableau", "tableau desktop", "tableau public", "tableau server"]
+    },
+    {
+      "name": "Statistics",
+      "category": "Mathematics & Analytics",
+      "aliases": ["statistics", "statistical analysis", "hypothesis testing", "probability", "inferential statistics", "descriptive statistics", "regression analysis", "a/b testing"]
+    },
+    {
+      "name": "Data Visualization",
+      "category": "Data & Analytics",
+      "aliases": ["data visualization", "data viz", "matplotlib", "seaborn", "plotly", "charting", "dashboards", "dashboarding"]
+    },
+    {
+      "name": "Pandas",
+      "category": "Data Analysis Libraries",
+      "aliases": ["pandas", "dataframe", "dataframes", "pd"]
+    },
+    {
+      "name": "NumPy",
+      "category": "Numerical Computing",
+      "aliases": ["numpy", "numerical python", "np", "vectorization", "matrix computations"]
+    },
+    {
+      "name": "Machine Learning",
+      "category": "Artificial Intelligence",
+      "aliases": ["machine learning", "ml", "scikit-learn", "sklearn", "supervised learning", "unsupervised learning", "random forest", "gradient boosting", "classification", "clustering", "deep learning", "neural networks"]
+    },
+    {
+      "name": "HTML",
+      "category": "Web Development",
+      "aliases": ["html", "html5", "semantic html", "web markup"]
+    },
+    {
+      "name": "CSS",
+      "category": "Web Development",
+      "aliases": ["css", "css3", "tailwind", "tailwind css", "bootstrap", "sass", "flexbox", "css grid"]
+    },
+    {
+      "name": "JavaScript",
+      "category": "Programming Languages",
+      "aliases": ["javascript", "js", "ecmascript", "es6", "vanilla js", "modern js"]
+    },
+    {
+      "name": "React",
+      "category": "Frontend Frameworks",
+      "aliases": ["react", "react.js", "reactjs", "react hooks", "redux", "next.js", "nextjs"]
+    },
+    {
+      "name": "Java",
+      "category": "Programming Languages",
+      "aliases": ["java", "core java", "java 8", "java 11", "java 17", "jvm", "spring", "spring boot"]
+    },
+    {
+      "name": "C++",
+      "category": "Programming Languages",
+      "aliases": ["c++", "cpp", "c plus plus", "modern c++", "stl"]
+    },
+    {
+      "name": "Git",
+      "category": "DevOps & Tooling",
+      "aliases": ["git", "github", "gitlab", "version control", "git flow", "branching"]
+    },
+    {
+      "name": "REST APIs",
+      "category": "Backend & Architecture",
+      "aliases": ["rest apis", "rest api", "restful api", "restful apis", "api development", "json api", "http api", "endpoints"]
+    },
+    {
+      "name": "FastAPI",
+      "category": "Backend Frameworks",
+      "aliases": ["fastapi", "fast api", "starlette", "uvicorn", "pydantic api"]
+    },
+    {
+      "name": "Django",
+      "category": "Backend Frameworks",
+      "aliases": ["django", "django rest framework", "drf"]
+    },
+    {
+      "name": "Flask",
+      "category": "Backend Frameworks",
+      "aliases": ["flask", "flask-restful", "jinja", "werkzeug"]
+    },
+    {
+      "name": "Data Structures and Algorithms",
+      "category": "Computer Science Core",
+      "aliases": ["data structures and algorithms", "dsa", "data structures", "algorithms", "problem solving", "dynamic programming", "graph algorithms", "sorting algorithms", "time complexity", "space complexity", "leetcode"]
+    }
+  ]
+}

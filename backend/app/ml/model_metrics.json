@@ -1,0 +1,36 @@
+{
+  "status": "Trained & Evaluated Successfully",
+  "model_name": "Logistic Regression with StandardScaler",
+  "description": "Supervised binary classification pipeline estimating readiness benchmark probability.",
+  "sample_size": 600,
+  "train_test_split": "80% Train (480) / 20% Held-Out Test (120)",
+  "accuracy": 0.8417,
+  "precision": 0.8714,
+  "recall": 0.8592,
+  "f1_score": 0.8652,
+  "confusion_matrix": [
+    [
+      40,
+      9
+    ],
+    [
+      10,
+      61
+    ]
+  ],
+  "feature_names": [
+    "cgpa",
+    "relevant_skill_count",
+    "project_count",
+    "internship_count",
+    "skill_match_percentage"
+  ],
+  "feature_coefficients": {
+    "cgpa": 0.7318,
+    "relevant_skill_count": 0.2761,
+    "project_count": 0.8786,
+    "internship_count": 1.0071,
+    "skill_match_percentage": 0.9323
+  },
+  "disclaimer": "NOTICE: This model is trained on a synthetic statistical benchmark dataset to demonstrate ML pipeline architecture, evaluation metrics, and model persistence. Predictions represent a benchmark estimate and are NOT scientifically validated real-world placement guarantees."
+}

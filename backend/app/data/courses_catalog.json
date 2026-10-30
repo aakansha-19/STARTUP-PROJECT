@@ -1,0 +1,246 @@
+{
+  "recommendations": {
+    "SQL": {
+      "skill": "SQL",
+      "course_name": "SQL for Data Science",
+      "provider": "Coursera (UC Davis)",
+      "course_url": "https://www.coursera.org/learn/sql-for-data-science",
+      "alternate_resource": "https://www.freecodecamp.org/learn/relational-database/",
+      "difficulty": "Beginner to Intermediate",
+      "estimated_weeks": 4,
+      "project_idea": "Build a multi-table Retail E-Commerce Database in SQLite/PostgreSQL with complex joins, window functions, and sales aggregation queries.",
+      "key_topics": ["SELECT, JOINs & GROUP BY", "Subqueries & CTEs", "Window Functions (RANK, ROW_NUMBER)", "Database Schema Design & Indexing"]
+    },
+    "Power BI": {
+      "skill": "Power BI",
+      "course_name": "Microsoft Power BI Data Analyst Professional Certificate",
+      "provider": "Microsoft / Coursera",
+      "course_url": "https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst",
+      "alternate_resource": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi",
+      "difficulty": "Beginner to Intermediate",
+      "estimated_weeks": 3,
+      "project_idea": "Design an Executive Sales & Operations KPI Dashboard featuring automated data refresh, DAX calculated measures, and dynamic slicers.",
+      "key_topics": ["Power Query Data Transformation", "Data Modeling & Relationships", "DAX Calculated Measures", "Interactive Visual Reports"]
+    },
+    "Python": {
+      "skill": "Python",
+      "course_name": "Python for Everybody Specialization",
+      "provider": "Coursera (University of Michigan)",
+      "course_url": "https://www.coursera.org/specializations/python",
+      "alternate_resource": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+      "difficulty": "Beginner to Intermediate",
+      "estimated_weeks": 4,
+      "project_idea": "Develop a CLI Data Processing & Automation Tool that reads messy CSV files, cleans missing data, and exports formatted summary reports.",
+      "key_topics": ["Data Structures (Lists, Dicts, Sets)", "OOP Principles & Classes", "File I/O & Exception Handling", "Virtual Environments & Modules"]
+    },
+    "Excel": {
+      "skill": "Excel",
+      "course_name": "Excel Skills for Business Specialization",
+      "provider": "Coursera (Macquarie University)",
+      "course_url": "https://www.coursera.org/specializations/excel",
+      "alternate_resource": "https://support.microsoft.com/en-us/excel",
+      "difficulty": "Beginner",
+      "estimated_weeks": 2,
+      "project_idea": "Create a Financial Budget & Forecast Modeling Workbook with dynamic VLOOKUP/XLOOKUP, Pivot Tables, and scenario analysis charts.",
+      "key_topics": ["XLOOKUP, INDEX-MATCH", "Pivot Tables & Slicers", "Conditional Formatting", "Data Validation & Formulas"]
+    },
+    "Tableau": {
+      "skill": "Tableau",
+      "course_name": "Data Visualization with Tableau Specialization",
+      "provider": "Coursera (UC Davis)",
+      "course_url": "https://www.coursera.org/specializations/data-visualization",
+      "alternate_resource": "https://www.tableau.com/learn/training",
+      "difficulty": "Beginner to Intermediate",
+      "estimated_weeks": 3,
+      "project_idea": "Build a Global COVID-19 or Healthcare Analytics Storyboard with geographic heatmaps, calculated fields, and dashboard navigation actions.",
+      "key_topics": ["Calculated Fields & Parameters", "Geographical Mapping", "Dashboard Storytelling", "LOD (Level of Detail) Expressions"]
+    },
+    "Statistics": {
+      "skill": "Statistics",
+      "course_name": "Introduction to Statistics",
+      "provider": "Stanford Online / Coursera",
+      "course_url": "https://www.coursera.org/learn/stanford-statistics",
+      "alternate_resource": "https://www.khanacademy.org/math/statistics-probability",
+      "difficulty": "Intermediate",
+      "estimated_weeks": 4,
+      "project_idea": "Conduct an A/B Testing Experiment Case Study on website conversion rates, computing p-values, confidence intervals, and hypothesis tests.",
+      "key_topics": ["Probability Distributions", "Hypothesis Testing (t-tests, ANOVA)", "Confidence Intervals & p-values", "Linear & Logistic Regression"]
+    },
+    "Data Visualization": {
+      "skill": "Data Visualization",
+      "course_name": "Data Analysis and Visualization Foundations",
+      "provider": "IBM / Coursera",
+      "course_url": "https://www.coursera.org/specializations/ibm-data-analyst",
+      "alternate_resource": "https://matplotlib.org/stable/tutorials/index.html",
+      "difficulty": "Beginner to Intermediate",
+      "estimated_weeks": 2,
+      "project_idea": "Create an Exploratory Data Analysis (EDA) Notebook with Matplotlib, Seaborn, and interactive Plotly figures illustrating demographic trends.",
+      "key_topics": ["Chart Selection Best Practices", "Matplotlib & Seaborn Subplots", "Interactive Plots with Plotly", "Color Theory & Accessibility"]
+    },
+    "Pandas": {
+      "skill": "Pandas",
+      "course_name": "Pandas Micro-Course",
+      "provider": "Kaggle Learn",
+      "course_url": "https://www.kaggle.com/learn/pandas",
+      "alternate_resource": "https://pandas.pydata.org/docs/user_guide/index.html",
+      "difficulty": "Beginner to Intermediate",
+      "estimated_weeks": 2,
+      "project_idea": "Perform end-to-end data cleansing and transformation on a 500,000-row real estate dataset, handling missing values and datetime series.",
+      "key_topics": ["Indexing, Slicing & Filtering", "Grouping & Aggregation", "Merging, Joining & Concatenating", "Time Series Analysis"]
+    },
+    "NumPy": {
+      "skill": "NumPy",
+      "course_name": "NumPy: the absolute basics for beginners",
+      "provider": "NumPy Official Documentation",
+      "course_url": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+      "alternate_resource": "https://www.w3schools.com/python/numpy/",
+      "difficulty": "Beginner",
+      "estimated_weeks": 1,
+      "project_idea": "Build a Matrix Math and Image Manipulation Tool using multidimensional arrays, broadcasting, and vector operations.",
+      "key_topics": ["N-dimensional Arrays (ndarray)", "Broadcasting Rules", "Vectorized Array Operations", "Linear Algebra Routines"]
+    },
+    "Machine Learning": {
+      "skill": "Machine Learning",
+      "course_name": "Machine Learning Specialization",
+      "provider": "DeepLearning.AI & Stanford (Andrew Ng)",
+      "course_url": "https://www.coursera.org/specializations/machine-learning-introduction",
+      "alternate_resource": "https://www.kaggle.com/learn/intro-to-machine-learning",
+      "difficulty": "Intermediate",
+      "estimated_weeks": 6,
+      "project_idea": "Develop an End-to-End Loan Default Prediction Pipeline with Scikit-Learn, featuring feature encoding, cross-validation, and ROC-AUC tuning.",
+      "key_topics": ["Supervised Learning (Regression & Classification)", "Feature Engineering & Scaling", "Model Evaluation & Metrics", "Ensemble Methods (Random Forest, XGBoost)"]
+    },
+    "HTML": {
+      "skill": "HTML",
+      "course_name": "Responsive Web Design Certification (HTML5)",
+      "provider": "freeCodeCamp",
+      "course_url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+      "alternate_resource": "https://developer.mozilla.org/en-US/docs/Learn/HTML",
+      "difficulty": "Beginner",
+      "estimated_weeks": 1,
+      "project_idea": "Author an accessible, semantic multipage personal portfolio site conforming to WCAG 2.1 accessibility criteria.",
+      "key_topics": ["Semantic Elements (header, nav, main, article)", "Form Controls & Attributes", "Meta Tags & SEO Basics", "Accessibility & ARIA"]
+    },
+    "CSS": {
+      "skill": "CSS",
+      "course_name": "Modern CSS & Responsive Design",
+      "provider": "freeCodeCamp / MDN Web Docs",
+      "course_url": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
+      "alternate_resource": "https://tailwindcss.com/docs/utility-first",
+      "difficulty": "Beginner to Intermediate",
+      "estimated_weeks": 2,
+      "project_idea": "Code a pixel-perfect, responsive SaaS product landing page with CSS Grid, Flexbox, smooth transitions, and dark mode support.",
+      "key_topics": ["Flexbox & CSS Grid Layouts", "Responsive Media Queries", "CSS Custom Properties (Variables)", "Tailwind Utility Patterns"]
+    },
+    "JavaScript": {
+      "skill": "JavaScript",
+      "course_name": "JavaScript Algorithms and Data Structures",
+      "provider": "freeCodeCamp",
+      "course_url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/",
+      "alternate_resource": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "difficulty": "Beginner to Intermediate",
+      "estimated_weeks": 4,
+      "project_idea": "Build an Interactive Weather & Forecast Dashboard consuming third-party REST APIs using ES6+ async/await and DOM manipulation.",
+      "key_topics": ["Async/Await, Promises & Fetch API", "ES6+ Array Methods (map, filter, reduce)", "Closures & Event Loop", "DOM Manipulation & Event Listeners"]
+    },
+    "React": {
+      "skill": "React",
+      "course_name": "React Documentation & Interactive Tutorial",
+      "provider": "React Core Team",
+      "course_url": "https://react.dev/learn",
+      "alternate_resource": "https://www.freecodecamp.org/learn/front-end-development-libraries/",
+      "difficulty": "Intermediate",
+      "estimated_weeks": 4,
+      "project_idea": "Develop a Full-Featured E-Commerce Product Explorer with cart state management, client-side routing, and reusable UI components.",
+      "key_topics": ["Component Lifecycle & JSX", "useState, useEffect, useMemo Hooks", "Client-Side Routing with React Router", "Global State Management"]
+    },
+    "Java": {
+      "skill": "Java",
+      "course_name": "Java Programming and Software Engineering Fundamentals",
+      "provider": "Duke University / Coursera",
+      "course_url": "https://www.coursera.org/specializations/java-programming",
+      "alternate_resource": "https://dev.java/learn/",
+      "difficulty": "Beginner to Intermediate",
+      "estimated_weeks": 5,
+      "project_idea": "Build a Banking & Account Management System in Java implementing inheritance, encapsulation, and exception handling.",
+      "key_topics": ["OOP Principles (Inheritance, Polymorphism)", "Collections Framework (List, Map, Set)", "Generics & Exception Handling", "Multithreading & Concurrency Basics"]
+    },
+    "C++": {
+      "skill": "C++",
+      "course_name": "Learn C++ Online Tutorial",
+      "provider": "LearnCpp.com",
+      "course_url": "https://www.learncpp.com/",
+      "alternate_resource": "https://en.cppreference.com/w/",
+      "difficulty": "Intermediate",
+      "estimated_weeks": 5,
+      "project_idea": "Implement a High-Performance Memory-Managed Custom Vector and Hash Table Library adhering to Modern C++ (C++17/20) standards.",
+      "key_topics": ["Pointers, References & Dynamic Memory", "RAII & Smart Pointers (unique_ptr, shared_ptr)", "Standard Template Library (STL)", "Templates & Move Semantics"]
+    },
+    "Git": {
+      "skill": "Git",
+      "course_name": "Version Control with Git",
+      "provider": "Atlassian / Coursera",
+      "course_url": "https://www.coursera.org/learn/version-control-with-git",
+      "alternate_resource": "https://git-scm.com/book/en/v2",
+      "difficulty": "Beginner",
+      "estimated_weeks": 1,
+      "project_idea": "Configure an open-source GitHub repository workflow with feature branch PRs, merge conflict resolution, semantic tags, and GitHub Actions CI.",
+      "key_topics": ["Branching & Merging Workflows", "Resolving Merge Conflicts", "Git Rebase & Interactive Staging", "Remote Repositories & Pull Requests"]
+    },
+    "REST APIs": {
+      "skill": "REST APIs",
+      "course_name": "Client-side Web APIs & REST Design",
+      "provider": "MDN Web Docs",
+      "course_url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction",
+      "alternate_resource": "https://restfulapi.net/",
+      "difficulty": "Beginner to Intermediate",
+      "estimated_weeks": 2,
+      "project_idea": "Design and document a production-ready Bookstore Inventory API following REST constraints, standard HTTP status codes, and JSON schemas.",
+      "key_topics": ["HTTP Verbs (GET, POST, PUT, DELETE, PATCH)", "Status Codes & Error Formatting", "Pagination, Sorting & Filtering", "API Security & Rate Limiting"]
+    },
+    "FastAPI": {
+      "skill": "FastAPI",
+      "course_name": "FastAPI Tutorial - User Guide",
+      "provider": "FastAPI Official Documentation",
+      "course_url": "https://fastapi.tiangolo.com/tutorial/",
+      "alternate_resource": "https://testdriven.io/courses/fastapi-celery/",
+      "difficulty": "Intermediate",
+      "estimated_weeks": 2,
+      "project_idea": "Build an asynchronous High-Throughput Notification Service with Pydantic request validation, dependency injection, and automatic Swagger docs.",
+      "key_topics": ["Path & Query Parameters", "Pydantic Models & Validation", "Dependency Injection (Depends)", "Async Def Handlers & Middleware"]
+    },
+    "Django": {
+      "skill": "Django",
+      "course_name": "Django Girls Tutorial & Official Django Docs",
+      "provider": "Django Software Foundation",
+      "course_url": "https://docs.djangoproject.com/en/stable/intro/tutorial01/",
+      "alternate_resource": "https://tutorial.djangogirls.org/",
+      "difficulty": "Intermediate",
+      "estimated_weeks": 3,
+      "project_idea": "Create a Multi-Tenant Blogging & Discussion Forum with Django ORM, user authentication, and admin panel customization.",
+      "key_topics": ["Django ORM & Migrations", "Views, URLs & Templates", "Built-in Authentication & Admin", "Forms & CSRF Security"]
+    },
+    "Flask": {
+      "skill": "Flask",
+      "course_name": "Flask Mega-Tutorial",
+      "provider": "Flask Official Documentation",
+      "course_url": "https://flask.palletsprojects.com/en/stable/tutorial/",
+      "alternate_resource": "https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world",
+      "difficulty": "Intermediate",
+      "estimated_weeks": 2,
+      "project_idea": "Develop a Lightweight Microservice for URL Bookmarking and Metadata Scraper using Blueprints and SQLAlchemy.",
+      "key_topics": ["Routing & Request Handling", "Jinja Templating", "Flask Blueprints Architecture", "Database Integration via SQLAlchemy"]
+    },
+    "Data Structures and Algorithms": {
+      "skill": "Data Structures and Algorithms",
+      "course_name": "Algorithms, Part I & Part II",
+      "provider": "Princeton University / Coursera",
+      "course_url": "https://www.coursera.org/learn/algorithms-part1",
+      "alternate_resource": "https://neetcode.io/roadmap",
+      "difficulty": "Intermediate to Advanced",
+      "estimated_weeks": 8,
+      "project_idea": "Implement a benchmark test suite comparing Array vs LinkedList, Hash Table collision resolution, and Graph traversal algorithms (BFS/DFS).",
+      "key_topics": ["Arrays, Strings & Hash Tables", "Trees, Binary Search Trees & Heaps", "Graph Algorithms (BFS, DFS, Dijkstra)", "Dynamic Programming & Greedy Algorithms"]
+    }
+  }
+}
